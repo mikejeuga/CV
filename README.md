@@ -80,10 +80,11 @@ Mathematics (calculus, liner algebra, topology), Microeconometrics, Introduction
  * Tech skills: Python, Javascript, Ruby, SQL, HTML/CSS
  * Softwares & Systems: Bloomberg, Excel/VBA, MSFT Server, VSCode.
  * Languages: Native French, Fully fluent in spoken and written English, basic Spanish.
+ * FCA regulated CF30 - (May 2014 to Feb 2021) 
 
 ## Awards & Leadership Experience
  
- * Multicultural lead for the EMEA Diversity & Inclusion Board at Russell Investments. 
-  * In this effort, I was the main driver for the creation of Black Associate Resource Group and worked directly with the CEO's office.
+ *    2020 Multicultural lead for the EMEA Diversity & Inclusion Board at Russell Investments. 
+     * In this effort, I was the main driver for the creation of Black Associate Resource Group and worked directly with the CEO's office.
  * Team captain for two years at Panthéon-Sorbonne Basketball Team. (2 finals & 1 French College title).
- * Baritone for the Gospel choir "We Are One" - Five years as a full-time member.
+
