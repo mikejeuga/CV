@@ -22,18 +22,22 @@ _**Portfolio Manager**_
 _**Portfolio Analyst**_
 
 
-*	In-depth knowledge of the proprietary portfolio management system as well 3rd party trading systems.
-	>> Learned relational databases as well as query languages to manage portfolio data.
-	>> End to end comprehension of dataflow, from acquisition to clean portfolio position.
-	>> Developed ad-hoc tools using (Python, SQL, Excel/VBA) to manage data validation and client reporting.
+*	Daily portofolio monitoring and analyis of institutional portfolios.
+        * Daily portfolio components check, making sure the portfolios are ready to trade within reasonable time. 
+	* Derivatives pricing and cash positions check followed by trade proposals/discussions with portfolio managers. 
+	* Ensuring that post-trade positions make sense and trading cycle is finished with no issues and exposures are as expected.
+	* First analyst on the global team with clearance for trading before promotion.
 
+*	In-depth knowledge of the proprietary portfolio management system as well 3rd party trading systems.
+	* Learned relational databases fundamentals and enough SQL to query and manage portfolio data.
+	* End to end comprehension of dataflow, from data acquisition to clean portfolio position.
+	* Developed ad-hoc tools using (Python, SQL, Excel/VBA) to manage data validation and client reporting.
 
 *	Provide ad-hoc analysis and presentations on the benefits of derivatives overlay programs for internal and for clients. 
-	* Contributed to increase robustness of analysis tools to show advantages of using the platform.
+	* Contributed to increasing robustness of analysis tools to show advantages of using the Overlay platform.
 	* Created PowerPoint presentation on an ad-hoc basis for prospect meetings.
-
-
-
+	* Worked closely with Operations team and Engineering Ops to resolve issue and share knowledge.
+	
 
 
 ## Education
