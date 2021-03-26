@@ -42,25 +42,25 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+### Makers Academy (Mar - Jun 2021)
 
-#### Your University / College (start_date to end_date)
+### INSEEC Business School (Sept 2012 - Jun 2014)
+**MSc. Finance**
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
 
-#### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+### Université Panthéon-Sorbonne, Paris I (Sept 2007 - Jun 2011)
+**Bachelor of Economics**
 
-## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+## Technical Skills & Languges
+
+ * Tech skills: Python, Javascript, Ruby, SQL, HTML/CSS
+ * Softwares & Systems: Bloomberg, Excel/VBA, MSFT Server, VSCode.
+ * Languages: Native French, Fully fluent in spoken and written English, basic Spanish.
+
+## Awards & Leadership Experience
+ 
+ * Multicultural lead member for the Diversity & Inclusion Board at Russell Investments.
+ * Team captain for two years at Panthéon-Sorbonne Basketball Team. (2 finals & 1 French College title).
+ * Baritone for the Gospel choir "We Are One" - Five years as a full-time member.
