@@ -91,8 +91,11 @@ Mathematics (calculus, liner algebra, topology), Microeconometrics, Introduction
  
  ## Hobbies
  
- * Basket-ball takes a huge amount of my time. From playing to commenting and starting to look at how data and technology help me win barbershop debates  <img src="https://media.giphy.com/media/gvBsu33uMkgsB7kRxE/giphy.gif" width="70" height="70" />.
+ * Basket-ball takes a huge amount of my time. From playing to commenting and starting to look at how data and technology help me win barbershop debates.
+ * <img src="https://media.giphy.com/media/gvBsu33uMkgsB7kRxE/giphy.gif" width="70" height="70" />
  * I love a good time singing, just an acoustic guitar or a piano and it's showtime.
+ *  <img src="https://media.giphy.com/media/26hlQvJ24OYaS9DLG/giphy.gif" width="70" height="70" />
  * Mobile development, I'm growing an interest for iOS development.
  * Programming languages, I want to learn a static compiled language (maybe Golang) and adventure myself in the functional world (maybe Clojure). We'll see.
+ * <img src="https://media.giphy.com/media/8wvYd8bWGKPao/giphy.gif" width="70" height="70" />
 
