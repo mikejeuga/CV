@@ -21,7 +21,17 @@ _**Portfolio Manager**_
 ### Russell Investments - (Mars 2014 to June 2019)
 _**Portfolio Analyst**_
 
->Bllalalalalalallalalllallalalalalalalalalalalalalalallalalalalallalalalaa
+
+*	In-depth knowledge of the proprietary portfolio management system as well 3rd party trading systems.
+	>> Learned relational databases as well as query languages to manage portfolio data.
+	>> End to end comprehension of dataflow, from acquisition to clean portfolio position.
+	>> Developed ad-hoc tools using (Python, SQL, Excel/VBA) to manage data validation and client reporting.
+
+
+*	Provide ad-hoc analysis and presentations on the benefits of derivatives overlay programs for internal and for clients. 
+	* Contributed to increase robustness of analysis tools to show advantages of using the platform.
+	* Created PowerPoint presentation on an ad-hoc basis for prospect meetings.
+
 
 
 
@@ -40,7 +50,7 @@ _**MSc. Finance**_
 _**Bachelor of Economics**_
 
 *	Modules Included: Macroeconomics – Probability and Statistics – Introduction to econometrics – Corporate Finance – 
-Mathematics (calculus, liner algebra, topology), Micro-econometrics, Introduction to computer science (programming language used C).
+Mathematics (calculus, liner algebra, topology), Microeconometrics, Introduction to computer science (programming language used C).
 
 
 *	Thesis: Towards a Moralization of Finance?
