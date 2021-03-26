@@ -88,4 +88,10 @@ Mathematics (calculus, liner algebra, topology), Microeconometrics, Introduction
 	* In this effort, I was the main driver for the creation of Black Associate Resource Group and worked directly with the CEO's office.
 	
  * Team captain for two years at Panthéon-Sorbonne Basketball Team. (2 finals & 1 French College title).
+ 
+ ## Hobbies
+ 
+ * Basket-ball takes a huge amount of my time. From playing to commenting and strating to look at how data and technology fursther the convesation.
+ * I love a good time singing, just an acoustic guitar or a piano and it's showtime.
+ * Mobile development, I'm growing a particular interest in iOS development.
 
