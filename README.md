@@ -19,7 +19,7 @@ _**Associate Portfolio Manager**_
 	* Provided daily updates as well as ad-hoc trade ideas to various institional clients. 
 	* Advanced from managing simpler GBP 300K size portfolios to highly complex GBP 9 billion strategies.
 	* Traded from vanilla futures based strategies to multiple-leg options strategies.
-	* Helped on RFPs with techincal wording and translation in French resulting in onboarding of one of the largest institution in the country.
+	* Helped on RFPs with techincal wording and translation in French resulting in winning one of the largest mandate in EMEA.
 
 *	Development and implementation of various derivatives strategies for institutional investors.
 	* I have performed and presented multiple back-tests on implementable strategies (R and Excel).
