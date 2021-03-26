@@ -39,7 +39,15 @@ _**Portfolio Analyst**_
 ### Université Panthéon-Sorbonne Paris I, Sept 2007 - June 2011
 **Bachelor of Economics**
 
->Bllalalalalalallalalllallalalalalalalalalalalalalalallalalalalallalalalaa
+*	Modules Included: Macroeconomics – Probability and Statistics – Introduction to econometrics – Corporate Finance – 
+Mathematics (calculus, liner algebra, topology), Micro-econometrics, Introduction to computer science (programming language used C).
+
+
+*	Thesis: Towards a Moralization of Finance?
+      Analysis of three equity portfolios. 
+      Compared the performance over 15 years of a developed equities portfolio against two other portfolios. 
+      One built to satisfy Islamic finance requirements and the other ESG constraints. 
+     _Supervisor: Pr. J. Couppey – Soubeyran_
 
 
 ## Technical Skills & Languges
