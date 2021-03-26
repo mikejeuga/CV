@@ -28,7 +28,7 @@ _Portfolio Analyst_
 
 ## Education
 
-**Makers Academy (Mars to June 2021)
+**Makers Academy (Mars to June 2021)**
 
 **INSEEC Business School - (Sept 2012 to Jun 2014)**
 _MSc. Finance_
