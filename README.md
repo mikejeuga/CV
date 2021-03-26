@@ -65,7 +65,7 @@ _**MSc. Finance**_
 _**Bachelor of Economics**_
 
 *	Modules Included: Macroeconomics – Probability and Statistics – Introduction to econometrics – Corporate Finance – 
-Mathematics (calculus, liner algebra, topology), Microeconometrics, Introduction to computer science (programming language used C).
+Mathematics (calculus, liner algebra, topology), Microeconometrics, Introduction to computer science (C porgramming language).
 
 
 *	Thesis: Towards a Moralization of Finance?
