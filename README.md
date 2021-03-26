@@ -91,7 +91,7 @@ Mathematics (calculus, liner algebra, topology), Microeconometrics, Introduction
  
  ## Hobbies
  
- <img src="https://media.giphy.com/media/11e0gEWxYoSYTK/giphy.gif" width="150" height="150" />
+ <img src="https://media.giphy.com/media/11e0gEWxYoSYTK/giphy.gif" width="200" height="150" />
  
  
  
