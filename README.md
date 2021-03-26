@@ -11,15 +11,15 @@ Software Engineer
 
 ## Professional Experience
 
-**Russell Investments - (Jul 2019 to Feb 2021)**
-_Portfolio Manager_
+### Russell Investments - (Jul 2019 to Feb 2021)
+_**Portfolio Manager**_
 
 >Bllalalalalalallalalllallalalalalalalalalalalalalalallalalalalallalalalaa
 
 
 
-**Russell Investments -  (Mars 2014 to June 2019)**
-_Portfolio Analyst_
+### Russell Investments - (Mars 2014 to June 2019)
+_**Portfolio Analyst**_
 
 >Bllalalalalalallalalllallalalalalalalalalalalalalalallalalalalallalalalaa
 
@@ -28,28 +28,18 @@ _Portfolio Analyst_
 
 ## Education
 
-**Makers Academy (Mars to June 2021)**
+### Makers Academy - (Mars to June 2021)
 
-**INSEEC Business School - (Sept 2012 to Jun 2014)**
-_MSc. Finance_
+### INSEEC Business School, (Sept 2012 - Jun 2014)
+_**MSc. Finance**_
 
-* Modules Included: Portfolio Management – Mathematical Finance - Financial Modelling using VBA & Matlab -
-      Derivatives - Statistics & Econometrics – Portfolio Optimisation using - Risk Management.
-
+>Bllalalalalalallalalllallalalalalalalalalalalalalalallalalalalallalalalaa
 
 
-**Université Panthéon-Sorbonne Paris I - (Sept 2007 to June 2011)**
- _Bachelor of Economics_
+### Université Panthéon-Sorbonne Paris I, Sept 2007 - June 2011
+_**Bachelor of Economics**_
 
-* Modules Included: Macroeconomics – Probability and Statistics – Introduction to econometrics – Corporate Finance – 
-Mathematics (calculus, liner algebra, topology), Micro-econometrics, Introduction to computer science (programming language used C).
-
-
-* Thesis: Towards a Moralization of Finance?
-      Analysis of three equity portfolios. 
-      Compared the performance over 15 years of a developed equities portfolio against two other portfolios. 
-      One built to satisfy Islamic finance requirements and the other ESG constraints. 
-     _Supervisor: Pr. J. Couppey – Soubeyran_
+>Bllalalalalalallalalllallalalalalalalalalalalalalalallalalalalallalalalaa
 
 
 ## Technical Skills & Languges
