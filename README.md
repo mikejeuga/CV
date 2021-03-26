@@ -91,7 +91,7 @@ Mathematics (calculus, liner algebra, topology), Microeconometrics, Introduction
  
  ## Hobbies
 
- * Basket-ball. From playing to commenting. I'm starting to look more at how data and technology take over the sport.
+ * Basket-ball. From playing to watching and discussing. I'm starting to look more at how data and technology take over the sport.
  * I love a good time singing, just an acoustic guitar or a piano and it's showtime. Favourite musician, Allen Stone.
  * Programming languages and paradigms. I'm curious about <img src="https://media.giphy.com/media/MFyzx6sKvA9cA5sMZp/giphy.gif" width="40" height="40" /> and will explore the functional world, maybe with Clojure. We'll see.
 
