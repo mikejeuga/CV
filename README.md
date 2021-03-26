@@ -99,5 +99,5 @@ Mathematics (calculus, liner algebra, topology), Microeconometrics, Introduction
  * Basket-ball takes a huge amount of my time. From playing to commenting and starting to look at how data and technology help me win barbershop debates.
  * I love a good time singing, just an acoustic guitar or a piano and it's showtime.
  * https://media.giphy.com/media/zYi4Qdbs4LUmCrVD82/giphy.gif
- * Programming languages. I'd like to learn a static compiled language (maybe  <img src="https://media.giphy.com/media/zYi4Qdbs4LUmCrVD82/giphy.gif" width="40" height="40" />) and adventure myself in the functional world (maybe Clojure). We'll see.
+ * Programming languages. I'd like to learn a static compiled language (maybe  <img src="https://media.giphy.com/media/MFyzx6sKvA9cA5sMZp/giphy.gif" width="40" height="40" />) and adventure myself in the functional world (maybe Clojure). We'll see.
  
