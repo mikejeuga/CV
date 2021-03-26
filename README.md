@@ -12,7 +12,7 @@ Software Engineer
 ## Professional Experience
 
 ### Russell Investments - (Jul 2019 to Feb 2021)
-_**Portfolio Manager**_
+_**Associate Portfolio Manager**_
 
 *	Daily portfolio trading & analysis to ensure cash equitization and hedging assignments are implemented.
 	* Daily rebalancing and tactical trades on 12 multi-asset portfolios. I have built a deep knowledge of all 15 EMEA based portfolios.
