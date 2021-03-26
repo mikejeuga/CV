@@ -12,14 +12,14 @@ Software Engineer
 ## Professional Experience
 
 ### Russell Investments - (Jul 2019 to Feb 2021)
-_**Portfolio Manager**_
+_Portfolio Manager_
 
 >Bllalalalalalallalalllallalalalalalalalalalalalalalallalalalalallalalalaa
 
 
 
 ### Russell Investments -  (Mars 2014 to June 2019)
-_**Portfolio Analyst**_
+_Portfolio Analyst_
 
 >Bllalalalalalallalalllallalalalalalalalalalalalalalallalalalalallalalalaa
 
@@ -31,7 +31,7 @@ _**Portfolio Analyst**_
 ### Makers Academy (Mars to June 2021)
 
 ### INSEEC Business School - (Sept 2012 to Jun 2014)
-#### MSc. Finance
+_ MSc. Finance_
 
 * Modules Included: Portfolio Management – Mathematical Finance - Financial Modelling using VBA & Matlab -
       Derivatives - Statistics & Econometrics – Portfolio Optimisation using - Risk Management.
@@ -39,7 +39,7 @@ _**Portfolio Analyst**_
 
 
 ### Université Panthéon-Sorbonne Paris I - (Sept 2007 to June 2011)
-#### Bachelor of Economics
+ _Bachelor of Economics_
 
 * Modules Included: Macroeconomics – Probability and Statistics – Introduction to econometrics – Corporate Finance – 
 Mathematics (calculus, liner algebra, topology), Micro-econometrics, Introduction to computer science (programming language used C).
