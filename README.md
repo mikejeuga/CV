@@ -91,7 +91,7 @@ Mathematics (calculus, liner algebra, topology), Microeconometrics, Introduction
  
  ## Hobbies
  
- * Basket-ball takes a huge amount of my time. From playing to commenting and strating to look at how data and technology fursther the convesation.
+ * Basket-ball takes a huge amount of my time. From playing to commenting and starting to look at how data and technology help me win barbershop debates.
  * I love a good time singing, just an acoustic guitar or a piano and it's showtime.
  * Mobile development, I'm growing a particular interest in iOS development.
 
