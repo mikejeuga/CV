@@ -11,14 +11,14 @@ Software Engineer
 
 ## Professional Experience
 
-**Russell Investments - (Jul 2019 to Feb 2021)
+**Russell Investments - (Jul 2019 to Feb 2021)**
 _Portfolio Manager_
 
 >Bllalalalalalallalalllallalalalalalalalalalalalalalallalalalalallalalalaa
 
 
 
-**Russell Investments -  (Mars 2014 to June 2019)
+**Russell Investments -  (Mars 2014 to June 2019)**
 _Portfolio Analyst_
 
 >Bllalalalalalallalalllallalalalalalalalalalalalalalallalalalalallalalalaa
@@ -30,7 +30,7 @@ _Portfolio Analyst_
 
 **Makers Academy (Mars to June 2021)
 
-**INSEEC Business School - (Sept 2012 to Jun 2014)
+**INSEEC Business School - (Sept 2012 to Jun 2014)**
 _MSc. Finance_
 
 * Modules Included: Portfolio Management – Mathematical Finance - Financial Modelling using VBA & Matlab -
@@ -38,7 +38,7 @@ _MSc. Finance_
 
 
 
-**Université Panthéon-Sorbonne Paris I - (Sept 2007 to June 2011)
+**Université Panthéon-Sorbonne Paris I - (Sept 2007 to June 2011)**
  _Bachelor of Economics_
 
 * Modules Included: Macroeconomics – Probability and Statistics – Introduction to econometrics – Corporate Finance – 
