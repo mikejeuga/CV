@@ -90,12 +90,7 @@ Mathematics (calculus, liner algebra, topology), Microeconometrics, Introduction
  * Team captain for two years at Panthéon-Sorbonne Basketball Team. (2 finals & 1 French College title).
  
  ## Hobbies
- 
- <img src="https://media.giphy.com/media/11e0gEWxYoSYTK/giphy.gif" width="220" height="150" />
- 
- 
- 
- 
+
  * Basket-ball takes a huge amount of my time. From playing to commenting. I'm starting to look more at how data and technology take over the sport.
  * I love a good time singing, just an acoustic guitar or a piano and it's showtime.
  * Programming languages. I'd like to learn a static compiled language (maybe  <img src="https://media.giphy.com/media/MFyzx6sKvA9cA5sMZp/giphy.gif" width="40" height="40" />) and adventure myself in the functional world (maybe Clojure). We'll see.
