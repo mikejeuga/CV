@@ -14,8 +14,21 @@ Software Engineer
 ### Russell Investments - (Jul 2019 to Feb 2021)
 _**Portfolio Manager**_
 
->Bllalalalalalallalalllallalalalalalalalalalalalalalallalalalalallalalalaa
+*	Daily portfolio trading & monitoring to ensure cash equitization and other beta hedging assignments.
+	* Daily rebalancing and tactical trades on 12 multi-asset portfolios. I have built a deep knowledge of all 15 EMEA based portfolios.
+	* Provided daily updates as well as ad-hoc trade ideas to various institional clients. 
+	* Advanced from managing simpler GBP 300K size portfolios to highly complex GBP 9 billion strategies.
+	* Traded from vanilla futures based strategies to multiple-leg options strategies.
+	* Helped on RFPs with techincal wording and translation in French resulting in onboarding of one of the largest institution in the country.
 
+*	Development and implementation of various derivatives strategies for institutional investors.
+	* I have performed and presented multiple back-tests on implementable strategies (R and Excel).
+	* Strategies include portfolio equitisation, option’s replication using futures or liquidity-at-risk calculation.
+	* Created case studies and presented different services in front of UK and French clients.
+
+*	Provide liquidity management and exposure analysis to support implementation recommendations.
+	* Total ownership for the development and implementation of a unique cash management process.
+	* This process has been deployed for 5 other EMEA clients and mirrored in other regions (Japan).
 
 
 ### Russell Investments - (Mars 2014 to June 2019)
@@ -32,13 +45,13 @@ _**Portfolio Analyst**_
 	* Learned relational databases fundamentals and enough SQL to query and manage portfolio data.
 	* End to end comprehension of dataflow, from data acquisition to clean portfolio position.
 	* Developed ad-hoc tools using (Python, SQL, Excel/VBA) to manage data validation and client reporting.
+	* Worked with the technology team in order to enhance process and automation.
 
 *	Provide ad-hoc analysis and presentations on the benefits of derivatives overlay programs for internal and for clients. 
 	* Contributed to increasing robustness of analysis tools to show advantages of using the Overlay platform.
 	* Created PowerPoint presentation on an ad-hoc basis for prospect meetings.
 	* Worked closely with Operations team and Engineering Ops to resolve issue and share knowledge.
 	
-
 
 ## Education
 
