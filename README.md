@@ -31,7 +31,7 @@ _Portfolio Analyst_
 ### Makers Academy (Mars to June 2021)
 
 ### INSEEC Business School - (Sept 2012 to Jun 2014)
-_ MSc. Finance_
+_MSc. Finance_
 
 * Modules Included: Portfolio Management – Mathematical Finance - Financial Modelling using VBA & Matlab -
       Derivatives - Statistics & Econometrics – Portfolio Optimisation using - Risk Management.
