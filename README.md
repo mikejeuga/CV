@@ -59,7 +59,7 @@ _**Portfolio Analyst**_
 _**MSc. Finance**_
 
 * Modules Included: Portfolio Management – Mathematical Finance - Financial Modelling using VBA & Matlab -
-      Derivatives - Statistics & Econometrics – Portfolio Optimisation using - Risk Management.
+      Derivatives - Statistics & Econometrics – Portfolio Optimisation - Risk Management.
 
 ### Université Panthéon-Sorbonne Paris I - (Sept 2007 to June 2011)
 _**Bachelor of Economics**_
