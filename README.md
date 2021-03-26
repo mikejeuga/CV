@@ -31,7 +31,7 @@ _**Portfolio Analyst**_
 ### Makers Academy, Mars - June 2021)
 
 ### INSEEC Business School, Sept 2012 - Jun 2014
-**MSc. Finance**
+#### MSc. Finance
 
 * Modules Included: Portfolio Management – Mathematical Finance - Financial Modelling using VBA & Matlab -
       Derivatives - Statistics & Econometrics – Portfolio Optimisation using - Risk Management.
@@ -39,7 +39,7 @@ _**Portfolio Analyst**_
 
 
 ### Université Panthéon-Sorbonne Paris I, Sept 2007 - June 2011
-**Bachelor of Economics**
+#### Bachelor of Economics
 
 * Modules Included: Macroeconomics – Probability and Statistics – Introduction to econometrics – Corporate Finance – 
 Mathematics (calculus, liner algebra, topology), Micro-econometrics, Introduction to computer science (programming language used C).
