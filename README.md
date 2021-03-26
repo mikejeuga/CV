@@ -1,4 +1,4 @@
-## Your Name
+## Michael Jeuga
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -9,15 +9,14 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
-## Experience
+## Professional Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+### Russell Investments, Jul 2019 - Feb 2021
+_**Portfolio Manager**_
 
-- Any experience relevent to software development
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+### Russell Investments, Mars 2014 - June 2019
+_**Portfolio Analyst**_
 
 - Any experience relevent to software development
 
@@ -42,14 +41,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-### Makers Academy (Mar - Jun 2021)
+### Makers Academy, Mars - June 2021)
 
-### INSEEC Business School (Sept 2012 - Jun 2014)
+### INSEEC Business School, Sept 2012 - Jun 2014
 **MSc. Finance**
 
 
 
-### Université Panthéon-Sorbonne, Paris I (Sept 2007 - Jun 2011)
+### Université Panthéon-Sorbonne Paris I, Sept 2007 - June 2011
 **Bachelor of Economics**
 
 
