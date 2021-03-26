@@ -91,6 +91,8 @@ Mathematics (calculus, liner algebra, topology), Microeconometrics, Introduction
  
  ## Hobbies
  
+ <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+ 
  * Basket-ball takes a huge amount of my time. From playing to commenting and starting to look at how data and technology help me win barbershop debates.
  * I love a good time singing, just an acoustic guitar or a piano and it's showtime.
  * Mobile development, I'm growing an interest for iOS development.
