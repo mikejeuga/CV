@@ -1,4 +1,4 @@
-## Michael Jeuga
+# Michael Jeuga
 
 Software Engineer
 
