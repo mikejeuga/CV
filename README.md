@@ -68,7 +68,7 @@ _**Bachelor of Economics**_
 Mathematics (calculus, liner algebra, topology), Microeconometrics, Introduction to computer science (C porgramming language).
 
 
-*	Thesis: Towards a Moralization of Finance?
+*    Thesis: Towards a Moralization of Finance?
       Analysis of three equity portfolios. 
       Compared the performance over 15 years of a developed equities portfolio against two other portfolios. 
       One built to satisfy Islamic finance requirements and the other ESG constraints. 
@@ -84,7 +84,8 @@ Mathematics (calculus, liner algebra, topology), Microeconometrics, Introduction
 
 ## Awards & Leadership Experience
  
- *    2020 Multicultural lead for the EMEA Diversity & Inclusion Board at Russell Investments. 
-     * In this effort, I was the main driver for the creation of Black Associate Resource Group and worked directly with the CEO's office.
+ *	2020 Multicultural lead for the EMEA Diversity & Inclusion Board at Russell Investments. 
+	* In this effort, I was the main driver for the creation of Black Associate Resource Group and worked directly with the CEO's office.
+	
  * Team captain for two years at Panthéon-Sorbonne Basketball Team. (2 finals & 1 French College title).
 
