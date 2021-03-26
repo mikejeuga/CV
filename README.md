@@ -33,7 +33,9 @@ _**Portfolio Analyst**_
 ### INSEEC Business School, Sept 2012 - Jun 2014
 **MSc. Finance**
 
->Bllalalalalalallalalllallalalalalalalalalalalalalalallalalalalallalalalaa
+* Modules Included: Portfolio Management – Mathematical Finance- Financial Modelling using VBA & Matlab
+      Derivatives -Statistics & Econometrics – Portfolio Optimisation using - Risk Management.
+
 
 
 ### Université Panthéon-Sorbonne Paris I, Sept 2007 - June 2011
