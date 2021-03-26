@@ -34,8 +34,7 @@ _**Portfolio Manager**_
 ### Russell Investments - (Mars 2014 to June 2019)
 _**Portfolio Analyst**_
 
-*	Daily portofolio monitoring and analyis of institutional portfolios.
-        * Daily portfolio components check, making sure the portfolios are ready to trade within reasonable time. 
+*	Daily portofolio monitoring and analyis of institutional portfolios. 
 	* Derivatives pricing and cash positions check followed by trade proposals/discussions with portfolio managers. 
 	* Ensuring that post-trade positions make sense and trading cycle is finished with no issues and exposures are as expected.
 	* First analyst on the global team with clearance for trading before promotion.
