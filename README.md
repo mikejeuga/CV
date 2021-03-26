@@ -83,6 +83,6 @@ Mathematics (calculus, liner algebra, topology), Microeconometrics, Introduction
 
 ## Awards & Leadership Experience
  
- * Multicultural lead member for the Diversity & Inclusion Board at Russell Investments.
+ * Multicultural lead for the EMEA Diversity & Inclusion Board at Russell Investments. I was the main driver for the creation of Black Associate Resource Group
  * Team captain for two years at Panthéon-Sorbonne Basketball Team. (2 finals & 1 French College title).
  * Baritone for the Gospel choir "We Are One" - Five years as a full-time member.
