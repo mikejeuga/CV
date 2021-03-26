@@ -24,7 +24,7 @@ _**Associate Portfolio Manager**_
 *	Development and implementation of various derivatives strategies for institutional investors.
 	* I have performed and presented multiple back-tests on implementable strategies (R and Excel).
 	* Strategies include portfolio equitisation, option’s replication using futures or liquidity-at-risk calculation.
-	* Created case studies and presented different services in front of UK and French clients.
+	* Created case studies and presented different services in front of institutional British, French and Middle Eastern clients.
 
 *	Provide liquidity management and exposure analysis to support implementation recommendations.
 	* Total ownership for the development and implementation of a unique cash management process.
