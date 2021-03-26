@@ -14,30 +14,17 @@ Software Engineer
 ### Russell Investments, Jul 2019 - Feb 2021
 _**Portfolio Manager**_
 
+>Bllalalalalalallalalllallalalalalalalalalalalalalalallalalalalallalalalaa
+
+
 
 ### Russell Investments, Mars 2014 - June 2019
 _**Portfolio Analyst**_
 
-- Any experience relevent to software development
+>Bllalalalalalallalalllallalalalalalalalalalalalalalallalalalalallalalalaa
 
-## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
@@ -46,10 +33,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ### INSEEC Business School, Sept 2012 - Jun 2014
 **MSc. Finance**
 
+>Bllalalalalalallalalllallalalalalalalalalalalalalalallalalalalallalalalaa
 
 
 ### Université Panthéon-Sorbonne Paris I, Sept 2007 - June 2011
 **Bachelor of Economics**
+
+>Bllalalalalalallalalllallalalalalalalalalalalalalalallalalalalallalalalaa
 
 
 ## Technical Skills & Languges
