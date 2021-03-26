@@ -14,7 +14,7 @@ Software Engineer
 ### Russell Investments - (Jul 2019 to Feb 2021)
 _**Portfolio Manager**_
 
-*	Daily portfolio trading & monitoring to ensure cash equitization and other beta hedging assignments.
+*	Daily portfolio trading & analysis to ensure cash equitization and hedging assignments are implemented.
 	* Daily rebalancing and tactical trades on 12 multi-asset portfolios. I have built a deep knowledge of all 15 EMEA based portfolios.
 	* Provided daily updates as well as ad-hoc trade ideas to various institional clients. 
 	* Advanced from managing simpler GBP 300K size portfolios to highly complex GBP 9 billion strategies.
@@ -33,7 +33,6 @@ _**Portfolio Manager**_
 
 ### Russell Investments - (Mars 2014 to June 2019)
 _**Portfolio Analyst**_
-
 
 *	Daily portofolio monitoring and analyis of institutional portfolios.
         * Daily portfolio components check, making sure the portfolios are ready to trade within reasonable time. 
