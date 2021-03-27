@@ -15,7 +15,7 @@ Software Engineer
 _**Associate Portfolio Manager**_
 
 *	Daily portfolio trading & analysis to ensure cash equitization and hedging assignments are implemented.
-	* Daily rebalancing and tactical trades on 12 multi-asset portfolios. I have built a deep knowledge of all 15 EMEA based portfolios.
+	* Daily rebalancing and tactical trades on 12 multi-asset portfolios. I have gained a deep understanding of all 15 EMEA based portfolios.
 	* Provided daily updates as well as ad-hoc trade ideas to various institional clients. 
 	* Advanced from managing simpler GBP 300K size portfolios to highly complex GBP 9 billion strategies.
 	* Traded from vanilla futures based strategies to multiple-leg options strategies.
@@ -34,21 +34,21 @@ _**Associate Portfolio Manager**_
 ### Russell Investments - (Mars 2014 to June 2019)
 _**Portfolio Analyst**_
 
-*	Daily portofolio monitoring and analyis of institutional portfolios. 
+*	Daily portofolio monitoring and analysis of institutional portfolios. 
 	* Derivatives pricing and cash positions check followed by trade proposals/discussions with portfolio managers. 
 	* Ensuring that post-trade positions make sense and trading cycle is finished with no issues and exposures are as expected.
 	* First analyst on the global team with clearance for trading before promotion.
 
-*	In-depth knowledge of the proprietary portfolio management system as well 3rd party trading systems.
+*	Demonstrated in-depth knowledge of the proprietary portfolio management system as well 3rd party trading systems.
 	* Learned relational databases fundamentals and enough SQL to query and manage portfolio data.
-	* End to end comprehension of dataflow, from data acquisition to clean portfolio position.
+	* End to end comprehension of dataflow, from data acquisition to clean portfolio position. 
 	* Developed ad-hoc tools using (Python, SQL, Excel/VBA) to manage data validation and client reporting.
 	* Worked with the technology team in order to enhance process and automation.
 
-*	Provide ad-hoc analysis and presentations on the benefits of derivatives overlay programs for internal and for clients. 
-	* Contributed to increasing robustness of analysis tools to show advantages of using the Overlay platform.
-	* Created PowerPoint presentation on an ad-hoc basis for prospect meetings.
-	* Worked closely with Operations team and Engineering Ops to resolve issue and share knowledge.
+*	Provided ad-hoc analysis and presentations on the benefits of derivatives overlay programs for internal and for clients. 
+	* Contributed to increasing robustness of analytic tools to show advantages of using the Overlay platform.
+	* Created presentations on an ad-hoc basis for prospects meetings.
+	* Worked closely with the Operations team and Engineering Ops to resolve issues and share knowledge.
 	
 
 ## Education
@@ -77,7 +77,7 @@ Mathematics (calculus, liner algebra, topology), Microeconometrics, Introduction
 
 ## Technical Skills & Languges
 
- * Tech skills: Python, Javascript, Ruby, SQL, HTML/CSS
+ * Tech skills: <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="40" height="40" />, Javascript, <img src="https://media.giphy.com/media/ies0Iqu9Yc5UqpOk6A/giphy.gif" width="40" height="40" />, <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="40" height="40" />, <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="40" height="40" />, <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="40" height="40" />
  * Softwares & Systems: Bloomberg, Excel/VBA, MSFT Server, VSCode.
  * Languages: Native French, Fully fluent in spoken and written English, basic Spanish.
  * FCA regulated CF30 - (May 2014 to Feb 2021) 
