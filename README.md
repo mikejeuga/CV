@@ -77,7 +77,7 @@ Mathematics (calculus, liner algebra, topology), Microeconometrics, Introduction
 
 ## Technical Skills & Languges
 
- * Tech skills: <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="40" height="40" />, Javascript, <img src="https://media.giphy.com/media/ies0Iqu9Yc5UqpOk6A/giphy.gif" width="40" height="40" />, <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="40" height="40" />, <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="40" height="40" />, <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="40" height="40" />
+ * Tech skills: <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="40" height="40" />, <img src="https://media.giphy.com/media/ies0Iqu9Yc5UqpOk6A/giphy.gif" width="40" height="40" />, <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="40" height="40" />, <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="40" height="40" />, <img src="https://tenor.com/bqtud.gif" width="40" height="40" />
  * Softwares & Systems: Bloomberg, Excel/VBA, MSFT Server, VSCode.
  * Languages: Native French, Fully fluent in spoken and written English, basic Spanish.
  * FCA regulated CF30 - (May 2014 to Feb 2021) 
