@@ -11,7 +11,7 @@ Software Engineer
 
 ## Professional Experience
 
-### Russell Investments, London - (Jul 2019 to Feb 2021)
+### Russell Investments - London - (Jul 2019 to Feb 2021)
 _**Associate Portfolio Manager**_
 
 *	Daily portfolio trading & analysis to ensure cash equitization and hedging assignments are implemented.
@@ -31,7 +31,7 @@ _**Associate Portfolio Manager**_
 	* This process has been deployed for 5 other EMEA clients and mirrored in other regions (Japan).
 
 
-### Russell Investments, London - (Mars 2014 to June 2019)
+### Russell Investments - London - (Mars 2014 to June 2019)
 _**Portfolio Analyst**_
 
 *	Daily portofolio monitoring and analysis of institutional portfolios. 
@@ -55,7 +55,7 @@ _**Portfolio Analyst**_
 
 ### Makers Academy - London - (Mars to June 2021)
 
-### INSEEC Business School, London - (Sept 2012 to Jun 2014)
+### INSEEC Business School - London - (Sept 2012 to Jun 2014)
 _**MSc. Finance**_
 
 * Modules Included: Portfolio Management – Mathematical Finance - Financial Modelling using VBA & Matlab -
